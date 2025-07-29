@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Thanuja Nirmal</h1>
-<h3 align="center">A passionate QA Engineer from Srilanka</h3>
+<h3 align="center">A passionate QA & SE Engineer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanuja47&label=Profile%20views&color=0e75b6&style=flat" alt="thanuja47" /> </p>
  <img align="right" top="5500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🌱 I’m currently learning **QA Automation & FrontEnd**
+- 🌱 I learned 1) React & node.js  and I’m currently learning **UI/UX designning**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** , **python** , **javascript**
 
 - 📫 How to reach me **nirmalthanuja7@gmail.com**
 
