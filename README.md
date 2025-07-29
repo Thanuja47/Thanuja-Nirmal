@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nirmalthanuja7@gmail.com**
 
-- ⚡ Fun fact **Always taking risks**
+- ⚡ Fun fact **Always taking risks & friendly**
 
  
 <h3 align="left">Connect with me:</h3>
